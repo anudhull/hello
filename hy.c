@@ -2,4 +2,5 @@
 void main()
 {
 printf("Hello everyone");
+printf("It is a fine mrng");
 }
